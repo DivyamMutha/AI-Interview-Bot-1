@@ -1,4 +1,4 @@
-AI INTERVIEW BOT
+AI CHAT INTERVIEW BOT
 The AI Interview Bot is an innovative application developed to provide intelligent, interactive, 
 and personalized interview preparation experiences. The system leverages Artificial 
 Intelligence (AI), Natural Language Processing (NLP), and Machine Learning (ML) 
